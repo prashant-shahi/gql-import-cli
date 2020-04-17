@@ -1,0 +1,35 @@
+{
+  "name": "gql-import-cli",
+  "version": "0.0.1",
+  "dependencies": {
+    "graphql": "^15.0.0",
+    "graphql-import": "^1.0.2"
+  },
+  "main": "index.js",
+  "bin": {
+    "gql-import-cli": "index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prashant Shahi",
+  "license": "ISC",
+  "description": "graphql-import packaged for cli usage",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant-shahi/gql-import-cli.git"
+  },
+  "keywords": [
+    "graphql",
+    "graphql-import",
+    "gql-import-cli",
+    "graphql",
+    "schema"
+  ],
+  "bugs": {
+    "url": "https://github.com/prashant-shahi/gql-import-cli/issues"
+  },
+  "homepage": "https://github.com/prashant-shahi/gql-import-cli#readme"
+}
