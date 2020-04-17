@@ -1,6 +1,6 @@
 # gql-import-cli
 
-cli tool for graphql-import
+cli tool of graphql-import for schema file concatenation
 
 ## Usage
 
