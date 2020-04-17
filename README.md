@@ -4,7 +4,7 @@ cli tool for graphql-import
 
 ## Usage
 
-Download the appropriate binary as per your machine from the `bin` folder.
+Download the appropriate binary as per your machine from the [release page](https://github.com/prashant-shahi/gql-import-cli/releases) or the `bin` folder.
 
 ```bash
 $ ./bin/gql-import-cli-linux ./example/schema.graphql
